@@ -17,9 +17,9 @@ html {
     line-height: 1.5;
     color:#0c4a91;  
     background-color:#f7ebff;
-  
   }
-  
+  a.link{color: #1276e9;}
+  a.visited{color: #124be9;}
   /* images and videos max out at full width */
   img,
   video {
